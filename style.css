@@ -1,0 +1,20 @@
+.headers{
+    line-height: 30px;
+    font-size: 20px;
+    
+    
+}
+body{
+    background-color: aqua;
+
+}
+
+p{
+    display: flex;
+justify-content: center;
+}
+
+img{
+    display: flex;
+    transform: translateX(300px);
+}
